@@ -1,0 +1,60 @@
+.titulos {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #A9F5CC;
+}
+
+.textos{
+    margin-left: 80px;
+    margin-right: 80px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #696969
+    
+}
+.texto{
+    text-align: center;
+    margin-left: 80px;
+    margin-right: 80px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #696969
+}
+div.img {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+}
+
+div.img:hover {
+    border: 1px solid #777;
+}
+
+div.img img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+
+.imagens {
+    text-align: center;
+    margin-left: 170px;
+    margin-right: 170px;
+    display: flex;
+}
+
+.rodape {  
+background-color:#A9F5CC;
+padding: 0%;
+margin: 0;
+height: 30px;
+position: relative;
+display: flex;
+padding-top: 10px;
+font-size: 1.5em;
+line-height:1.5;
+
+}
